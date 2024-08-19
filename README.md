@@ -1,4 +1,4 @@
-# Hola, mi nombre el Alonso Uribe
+# Hola, mi nombre es Alonso Uribe
 
 Tengo 30 años, nacido en Santiago de Chile
 Estudié Licenciatura en Ciencias, mención Física
